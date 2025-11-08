@@ -41,6 +41,7 @@ body {
 }
 
 .paper.image p {
+  font-weight: bold;
   font-size: 30px;
   margin: 5px 0;
 }
